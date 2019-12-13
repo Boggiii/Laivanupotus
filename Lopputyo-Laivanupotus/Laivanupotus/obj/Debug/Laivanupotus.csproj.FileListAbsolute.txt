@@ -1,0 +1,14 @@
+C:\Users\kamub\Desktop\Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.exe.config
+C:\Users\kamub\Desktop\Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.exe
+C:\Users\kamub\Desktop\Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.pdb
+C:\Users\kamub\Desktop\Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.csprojAssemblyReference.cache
+C:\Users\kamub\Desktop\Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.csproj.CoreCompileInputs.cache
+C:\Users\kamub\Desktop\Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.exe
+C:\Users\kamub\Desktop\Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.pdb
+C:\Users\kamub\source\repos\ohjelmoinnin-perusteet-eetu-nieminen\Lopputyo-Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.exe.config
+C:\Users\kamub\source\repos\ohjelmoinnin-perusteet-eetu-nieminen\Lopputyo-Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.exe
+C:\Users\kamub\source\repos\ohjelmoinnin-perusteet-eetu-nieminen\Lopputyo-Laivanupotus\Laivanupotus\bin\Debug\Laivanupotus.pdb
+C:\Users\kamub\source\repos\ohjelmoinnin-perusteet-eetu-nieminen\Lopputyo-Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.csprojAssemblyReference.cache
+C:\Users\kamub\source\repos\ohjelmoinnin-perusteet-eetu-nieminen\Lopputyo-Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.csproj.CoreCompileInputs.cache
+C:\Users\kamub\source\repos\ohjelmoinnin-perusteet-eetu-nieminen\Lopputyo-Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.exe
+C:\Users\kamub\source\repos\ohjelmoinnin-perusteet-eetu-nieminen\Lopputyo-Laivanupotus\Laivanupotus\obj\Debug\Laivanupotus.pdb
